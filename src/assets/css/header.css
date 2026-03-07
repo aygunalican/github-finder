@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'AdventureTime';
+  src: url('../images/adventure-time/Adventure\ Time\ Logo.ttf') format('truetype');
+}
+.adventure-font {
+  font-family: 'AdventureTime', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: #A1202A;
+ 
+
+}
+
+.header {
+  background-color: #ffffff;
+  padding:7px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.images-container {
+  display: flex;
+  align-items: center;
+  gap: 30px; 
+}
+
+.header-img {
+  height: 60px; 
+  width: auto;
+  
+}
+.sec{
+    height: 50px;
+
+}
+
+

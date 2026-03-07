@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'AdventureTime';
+  src: url('../images/adventure-time/Adventure\ Time\ Logo.ttf') format('truetype');
+  font-family: 'losevka';
+  src: url('../images/PkgTTC-SGr-Iosevka-34.1.0/SGr-Iosevka-Regular.ttf') format(truetype);
+}
+h5{
+  font-family: 'AdventureTime', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color:#426017 !important;
+
+ 
+}
+p{
+      font-family: 'losevka',sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #A1202A;
+ 
+}

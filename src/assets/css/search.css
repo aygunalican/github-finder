@@ -1,0 +1,32 @@
+
+@font-face {
+  font-family: 'Losevka';
+  src: url('../fonts/Losevka.ttf') format('truetype');
+}
+
+.search-input {
+  background-color:white;
+  color:  #1a4f6c;       
+  font-family: 'Losevka', sans-serif; 
+  font-size: 16px;
+  border: 1px solid #000000;
+  border-radius: 5px 0 0 5px; 
+  padding: 10px;
+}
+
+.search-input::placeholder {
+  color: #cfd8dc; 
+}
+
+
+.search-btn {
+  background-color:white;
+  color:  #1a4f6c; 
+  border: 1px solid #000000;
+  border-radius: 0 5px 5px 0; 
+  padding: 10px 20px;
+}
+
+.search-btn:hover {
+  background-color: #163d56; 
+}
